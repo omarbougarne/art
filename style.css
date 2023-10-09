@@ -31,11 +31,15 @@ a{
     font-family: 'Inter';
     margin-bottom: 50px;
 }
-p{
+.pepe{
     margin-top: 75px;
     margin-left: 50px;
 }
-h1{
+.he{
+    font-family: 'playfair display';
+    text-align: center;
+}
+.hehe{
     font-family: 'playfair display';
     text-align: center;
     font-size: 200px;
@@ -64,4 +68,41 @@ button{
 .copy{
     text-align: center;
     font-family: 'Inter';
+}
+.ggmi{
+    position: absolute;
+    left: 60%;
+    height: 75%;
+}
+.myp{
+    position: absolute;
+    right: 50%;
+    font-size: 20px;
+    width: 30%;
+    height: 100%;
+
+}
+.hrhr{
+    font-family: 'playfair display';
+    text-align: center;
+    margin-top: 50%;
+}
+.lop{
+font-family: 'Inter';
+font-size: 22px;
+text-align: center;
+}
+.contcolumn{
+    background-color: #181818;
+    display: flex;
+}
+.text{
+    float: right;
+}
+.papa{
+    width: 50%;
+}
+.imgur{
+    position: absolute;
+    left: 70%;
 }
