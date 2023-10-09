@@ -1,6 +1,7 @@
 body{
     background-color: #000;
     color: #fff;
+    margin-bottom: 500px;
 }
 .footer ul {
     list-style: none;
@@ -92,11 +93,24 @@ font-family: 'Inter';
 font-size: 22px;
 text-align: center;
 }
-.contcolumn{
-    background-color: #181818;
+.container {
     display: flex;
 }
-.text{
+
+.contcolumn-1 {
+    flex-direction: column; 
+}
+.contcolumn-2 {
+    flex-direction: column; /* Update to set the content of contcolumn-2 as a column */
+}
+
+.contcolumn-3 {
+    flex-direction: row; 
+}
+
+/* Add styles for .text and .texte as needed */
+
+/*.text{
     float: right;
 }
 .papa{
@@ -105,4 +119,4 @@ text-align: center;
 .imgur{
     position: absolute;
     left: 70%;
-}
+}*/
