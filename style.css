@@ -173,6 +173,47 @@ img{
 .imgs img, .imgs2 img{
     margin: 20px;
 }
+.cont{
+    font-family: 'Playfair Display';
+    text-align: center;
+    font-size: 100px;
+}
+input {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-bottom: solid 1px #ffffff;
+    margin-bottom: 20px;
+  }
+  textarea {
+    background-color: black;
+    color: white;
+    background-color: transparent;
+    border: none;
+    border-bottom: solid 1px #ffffff;
+  }
+  label{
+    font-family: 'Inter';
+    font-size: 25px;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 30%;
+    margin:0 25%;
+    margin-right: 100px;
+  }
+  .
+.forms{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin-right: 50px;
+  }
+footer{
+    margin-top: 100px;
+}
 /*
 .text{
     position: absolute;
