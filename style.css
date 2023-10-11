@@ -196,21 +196,32 @@ input {
     font-family: 'Inter';
     font-size: 25px;
   }
+  .formss{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin:0 25%;
+    
+    
+  }
   form {
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin:0 25%;
-    margin-left: 500px;
-  }
-.formss{
-    display: flex;
-    justify-content: center;
     width: 50%;
-    margin-right: 50px;
+    margin-right: 100px;
   }
+
 footer{
     margin-top: 100px;
+}
+.send{
+    position: relative;
+    right: 150px;
+    margin-top: 20px;
+    margin-right: 300px;
+    font-family: 'Inter';
 }
 /*
 .text{
